@@ -1,0 +1,41 @@
+_repo: Evidence-as-to-Man-s-Place-in-Nature_2931
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Huxley, Thomas Henry
+    alias: Huxley, T. H. (Thomas Henry)
+    birthdate: 1825
+    deathdate: 1895
+    gutenberg_agent_id: '595'
+    url: http://www.gutenberg.org/2009/agents/595
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Henry_Huxley
+description: "Evidence as to Man's Place in Nature is an 1863 book by Thomas Henry\
+  \ Huxley, in which he gives evidence for the evolution of man and apes from a common\
+  \ ancestor. It was the first book devoted to the topic of human evolution, and discussed\
+  \ much of the anatomical and other evidence. Backed by this evidence, the book proposed\
+  \ to a wide readership that evolution applied as fully to man as to all other life.\n\
+  \ From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2001-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2931'
+  wikidata: Q3234501
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Human beings -- Origin'
+- !lcsh 'Evolution'
+- !lcsh 'Apes'
+- !lcc 'QH'
+- GITenberg
+title: Evidence as to Man's Place in Nature
+url: http://www.gutenberg.org/ebooks/2931
+wikipedia:
+- https://id.wikipedia.org/wiki/Man%27s_Place_in_Nature
+- https://pt.wikipedia.org/wiki/Evidence_as_to_Man%27s_Place_in_Nature
+- https://fa.wikipedia.org/wiki/%D8%B4%D9%88%D8%A7%D9%87%D8%AF%DB%8C_%D8%AF%D8%B1_%D9%85%D9%88%D8%B1%D8%AF_%D8%AC%D8%A7%DB%8C%DA%AF%D8%A7%D9%87_%D8%A7%D9%86%D8%B3%D8%A7%D9%86_%D8%AF%D8%B1_%D8%B7%D8%A8%DB%8C%D8%B9%D8%AA
+- https://simple.wikipedia.org/wiki/Man%27s_Place_in_Nature
+- https://en.wikipedia.org/wiki/Man%27s_Place_in_Nature
+- https://ca.wikipedia.org/wiki/Evidence_as_to_Man%27s_Place_in_Nature
